@@ -1,0 +1,477 @@
+[
+ {
+   "StartDate": "2021-01-04",
+   "EndDate": "2021-01-17",
+   "Quarter": 1,
+   "Beat": 1
+ },
+ {
+   "StartDate": "2021-01-18",
+   "EndDate": "2021-01-31",
+   "Quarter": 1,
+   "Beat": 2
+ },
+ {
+   
+   "StartDate": "2021-02-01",
+   "EndDate": "2021-02-14",
+   "Quarter": 1,
+   "Beat": 3
+ },
+ {
+   "StartDate": "2021-02-15",
+   "EndDate": "2021-02-28",
+   "Quarter": 1,
+   "Beat": 4
+ },
+ {
+   "StartDate": "2021-03-01",
+   "EndDate": "2021-03-14",
+   "Quarter": 1,
+   "Beat": 5
+ },
+ {
+   "StartDate": "2021-03-15",
+   "EndDate": "2021-03-28",
+   "Quarter": 1,
+   "Beat": 6
+ },
+ {
+   "StartDate": "2021-03-29",
+   "EndDate": "2021-04-11",
+   "Quarter": 2,
+   "Beat": 7
+ },
+ {
+   "StartDate": "2021-04-12",
+   "EndDate": "2021-04-25",
+   "Quarter": 2,
+   "Beat": 8
+ },
+ {
+   "StartDate": "2021-04-26",
+   "EndDate": "2021-05-09",
+   "Quarter": 2,
+   "Beat": 9
+ },
+ {
+   "StartDate": "2021-05-10",
+   "EndDate": "2021-05-23",
+   "Quarter": 2,
+   "Beat": 10
+ },
+ {
+   "StartDate": "2021-05-24",
+   "EndDate": "2021-06-06",
+   "Quarter": 2,
+   "Beat": 11
+ },
+ {
+   "StartDate": "2021-06-07",
+   "EndDate": "2021-06-20",
+   "Quarter": 2,
+   "Beat": 12
+ },
+ {
+   "StartDate": "2021-06-21",
+   "EndDate": "2021-07-04",
+   "Quarter": 2,
+   "Beat": 13
+ },
+ {
+   "StartDate": "2021-07-05",
+   "EndDate": "2021-07-18",
+   "Quarter": 3,
+   "Beat": 14
+ },
+ {
+   "StartDate": "2021-07-19",
+   "EndDate": "2021-08-01",
+   "Quarter": 3,
+   "Beat": 15
+ },
+ {
+   "StartDate": "2021-08-02",
+   "EndDate": "2021-08-15",
+   "Quarter": 3,
+   "Beat": 16
+ },
+ {
+   "StartDate": "2021-08-16",
+   "EndDate": "2021-08-29",
+   "Quarter": 3,
+   "Beat": 17
+ },
+ {
+   "StartDate": "2021-08-30",
+   "EndDate": "2021-09-12",
+   "Quarter": 3,
+   "Beat": 18
+ },
+ {
+   "StartDate": "2021-09-13",
+   "EndDate": "2021-09-26",
+   "Quarter": 3,
+   "Beat": 19
+ },
+ {
+   "StartDate": "2021-09-27",
+   "EndDate": "2021-10-10",
+   "Quarter": 4,
+   "Beat": 20
+ },
+ {
+   "StartDate": "2021-10-11",
+   "EndDate": "2021-10-24",
+   "Quarter": 4,
+   "Beat": 21
+ },
+ {
+   "StartDate": "2021-10-25",
+   "EndDate": "2021-11-07",
+   "Quarter": 4,
+   "Beat": 22
+ },
+ {
+   "StartDate": "2021-11-08",
+   "EndDate": "2021-11-21",
+   "Quarter": 4,
+   "Beat": 23
+ },
+ {
+   "StartDate": "2021-11-22",
+   "EndDate": "2021-12-05",
+   "Quarter": 4,
+   "Beat": 24
+ },
+ {
+   "StartDate": "2021-12-06",
+   "EndDate": "2021-12-19",
+   "Quarter": 4,
+   "Beat": 25
+ },
+ {
+   "StartDate": "2021-12-20",
+   "EndDate": "2022-01-02",
+   "Quarter": 4,
+   "Beat": 26
+ },
+ {
+   "StartDate": "2022-01-03",
+   "EndDate": "2022-01-16",
+   "Quarter": 1,
+   "Beat": 1
+ },
+ {
+   "StartDate": "2022-01-17",
+   "EndDate": "2022-01-30",
+   "Quarter": 1,
+   "Beat": 2
+ },
+ {
+   "StartDate": "2022-01-31",
+   "EndDate": "2022-02-13",
+   "Quarter": 1,
+   "Beat": 3
+ },
+ {
+   "StartDate": "2022-02-14",
+   "EndDate": "2022-02-27",
+   "Quarter": 1,
+   "Beat": 4
+ },
+ {
+   "StartDate": "2022-02-28",
+   "EndDate": "2022-03-13",
+   "Quarter": 1,
+   "Beat": 5
+ },
+ {
+   "StartDate": "2022-03-14",
+   "EndDate": "2022-03-27",
+   "Quarter": 1,
+   "Beat": 6
+ },
+ {
+   "StartDate": "2022-03-28",
+   "EndDate": "2022-04-10",
+   "Quarter": 2,
+   "Beat": 7
+ },
+ {
+   "StartDate": "2022-04-11",
+   "EndDate": "2022-04-24",
+   "Quarter": 2,
+   "Beat": 8
+ },
+ {
+   "StartDate": "2022-04-25",
+   "EndDate": "2022-05-08",
+   "Quarter": 2,
+   "Beat": 9
+ },
+ {
+   "StartDate": "2022-05-09",
+   "EndDate": "2022-05-22",
+   "Quarter": 2,
+   "Beat": 10
+ },
+ {
+   "StartDate": "2022-05-23",
+   "EndDate": "2022-06-05",
+   "Quarter": 2,
+   "Beat": 11
+ },
+ {
+   "StartDate": "2022-06-06",
+   "EndDate": "2022-06-19",
+   "Quarter": 2,
+   "Beat": 12
+ },
+ {
+   "StartDate": "2022-06-20",
+   "EndDate": "2022-07-03",
+   "Quarter": 2,
+   "Beat": 13
+ },
+ {
+   "StartDate": "2022-07-04",
+   "EndDate": "2022-07-17",
+   "Quarter": 3,
+   "Beat": 14
+ },
+ {
+   "StartDate": "2022-07-18",
+   "EndDate": "2022-07-31",
+   "Quarter": 3,
+   "Beat": 15
+ },
+ {
+   "StartDate": "2022-08-01",
+   "EndDate": "2022-08-14",
+   "Quarter": 3,
+   "Beat": 16
+ },
+ {
+   "StartDate": "2022-08-15",
+   "EndDate": "2022-08-28",
+   "Quarter": 3,
+   "Beat": 17
+ },
+ {
+   "StartDate": "2022-08-29",
+   "EndDate": "2022-09-11",
+   "Quarter": 3,
+   "Beat": 18
+ },
+ {
+   "StartDate": "2022-09-12",
+   "EndDate": "2022-09-25",
+   "Quarter": 3,
+   "Beat": 19
+ },
+ {
+   "StartDate": "2022-09-26",
+   "EndDate": "2022-10-09",
+   "Quarter": 4,
+   "Beat": 20
+ },
+ {
+   "StartDate": "2022-10-10",
+   "EndDate": "2022-10-23",
+   "Quarter": 4,
+   "Beat": 21
+ },
+ {
+   "StartDate": "2022-10-24",
+   "EndDate": "2022-11-06",
+   "Quarter": 4,
+   "Beat": 22
+ },
+ {
+   "StartDate": "2022-11-07",
+   "EndDate": "2022-11-20",
+   "Quarter": 4,
+   "Beat": 23
+ },
+ {
+   "StartDate": "2022-11-21",
+   "EndDate": "2022-12-04",
+   "Quarter": 4,
+   "Beat": 24
+ },
+ {
+   "StartDate": "2022-12-05",
+   "EndDate": "2022-12-18",
+   "Quarter": 4,
+   "Beat": 25
+ },
+ {
+   "StartDate": "2022-12-19",
+   "EndDate": "2023-01-01",
+   "Quarter": 4,
+   "Beat": 26
+ },
+ {
+   "StartDate": "2023-01-02",
+   "EndDate": "2023-01-15",
+   "Quarter": 1,
+   "Beat": 1
+ },
+ {
+   "StartDate": "2023-01-16",
+   "EndDate": "2023-01-29",
+   "Quarter": 1,
+   "Beat": 2
+ },
+ {
+   "StartDate": "2023-01-30",
+   "EndDate": "2023-02-12",
+   "Quarter": 1,
+   "Beat": 3
+ },
+ {
+   "StartDate": "2023-02-13",
+   "EndDate": "2023-02-26",
+   "Quarter": 1,
+   "Beat": 4
+ },
+ {
+   "StartDate": "2023-02-27",
+   "EndDate": "2023-03-12",
+   "Quarter": 1,
+   "Beat": 5
+ },
+ {
+   "StartDate": "2023-03-13",
+   "EndDate": "2023-03-26",
+   "Quarter": 1,
+   "Beat": 6
+ },
+ {
+   "StartDate": "2023-03-27",
+   "EndDate": "2023-04-09",
+   "Quarter": 2,
+   "Beat": 7
+ },
+ {
+   "StartDate": "2023-04-10",
+   "EndDate": "2023-04-23",
+   "Quarter": 2,
+   "Beat": 8
+ },
+ {
+   "StartDate": "2023-04-24",
+   "EndDate": "2023-05-07",
+   "Quarter": 2,
+   "Beat": 9
+ },
+ {
+   "StartDate": "2023-05-08",
+   "EndDate": "2023-05-21",
+   "Quarter": 2,
+   "Beat": 10
+ },
+ {
+   "StartDate": "2023-05-22",
+   "EndDate": "2023-06-04",
+   "Quarter": 2,
+   "Beat": 11
+ },
+ {
+   "StartDate": "2023-06-05",
+   "EndDate": "2023-06-18",
+   "Quarter": 2,
+   "Beat": 12
+ },
+ {
+   "StartDate": "2023-06-19",
+   "EndDate": "2023-07-02",
+   "Quarter": 2,
+   "Beat": 13
+ },
+ {
+   "StartDate": "2023-07-03",
+   "EndDate": "2023-07-16",
+   "Quarter": 3,
+   "Beat": 14
+ },
+ {
+   "StartDate": "2023-07-17",
+   "EndDate": "2023-07-30",
+   "Quarter": 3,
+   "Beat": 15
+ },
+ {
+   "StartDate": "2023-07-31",
+   "EndDate": "2023-08-13",
+   "Quarter": 3,
+   "Beat": 16
+ },
+ {
+   "StartDate": "2023-08-14",
+   "EndDate": "2023-08-27",
+   "Quarter": 3,
+   "Beat": 17
+ },
+ {
+   "StartDate": "2023-08-28",
+   "EndDate": "2023-09-10",
+   "Quarter": 3,
+   "Beat": 18
+ },
+ {
+   "StartDate": "2023-09-11",
+   "EndDate": "2023-09-24",
+   "Quarter": 3,
+   "Beat": 19
+ },
+ {
+   "StartDate": "2023-09-25",
+   "EndDate": "2023-10-08",
+   "Quarter": 4,
+   "Beat": 20
+ },
+ {
+   "StartDate": "2023-10-09",
+   "EndDate": "2023-10-22",
+   "Quarter": 4,
+   "Beat": 21
+ },
+ {
+   "StartDate": "2023-10-23",
+   "EndDate": "2023-11-05",
+   "Quarter": 4,
+   "Beat": 22
+ },
+ {
+   "StartDate": "2023-11-06",
+   "EndDate": "2023-11-19",
+   "Quarter": 4,
+   "Beat": 23
+ },
+ {
+   "StartDate": "2023-11-20",
+   "EndDate": "2023-12-03",
+   "Quarter": 4,
+   "Beat": 24
+ },
+ {
+   "StartDate": "2023-12-04",
+   "EndDate": "2023-12-17",
+   "Quarter": 4,
+   "Beat": 25
+ },
+ {
+   "StartDate": "2023-12-18",
+   "EndDate": "2023-12-31",
+   "Quarter": 4,
+   "Beat": 26
+ },
+ {
+   "StartDate": "2024-01-01",
+   "EndDate": "2024-01-14",
+   "Quarter": 1,
+   "Beat": 1
+ }
+]
